@@ -1,2 +1,2 @@
 # CS-370
-Templates for everyone to refer to and use
+The spikes and prototypes that are quickly made to decrease development time
